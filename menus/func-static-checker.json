@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle func-static-checker",
+        "command": "func-static-checker:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Func static-checker",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "func-static-checker:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+func ggg (int,int)->(int);
+def ggg(x,y)->(x+y);
+use ggg(5,1);
+func gg (int,int)->(int);
+def gg(x,y)->(x+y);
+use gg(5,1);
+func o(int)->(int);
+def o(x)->(use gg(4,1));
