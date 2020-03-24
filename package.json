@@ -1,8 +1,8 @@
 {
   "name": "func-static-checker",
   "main": "./lib/func-static-checker",
-  "version": "0.1.0",
-  "description": "A short description of your package",
+  "version": "0.1.1",
+  "description": "Static type-checker for Func.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "func-static-checker:toggle"
