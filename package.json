@@ -15,6 +15,6 @@
   "dependencies": {
     "tree-sitter": "^0.16.0",
     "tree-sitter-cli": "^0.16.5",
-    "tree-sitter-func": "^1.2.0"
+    "tree-sitter-func": "^1.2.1"
   }
 }
