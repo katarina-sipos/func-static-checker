@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "func-static-checker:toggle"
   },
-  "repository": "https://github.com/kattarrina/func-static-checker",
+  "repository": "https://github.com/katarina-sipos/func-static-checker",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
