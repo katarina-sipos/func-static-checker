@@ -1,7 +1,7 @@
 {
   "name": "func-static-checker",
   "main": "./lib/func-static-checker",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "description": "Static type-checker for Func.",
   "keywords": [],
   "activationCommands": {
