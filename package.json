@@ -5,7 +5,10 @@
   "description": "Static type-checker for Func.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "func-static-checker:toggle"
+    "atom-workspace": [
+      "func-static-checker:toggle",
+      "func-static-checker:tree"
+    ]
   },
   "repository": "https://github.com/katarina-sipos/func-static-checker",
   "license": "MIT",
@@ -13,6 +16,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "node-gyp": "^6.1.0",
     "tree-sitter": "^0.16.0",
     "tree-sitter-cli": "^0.16.5",
     "tree-sitter-func": "^1.2.8"
