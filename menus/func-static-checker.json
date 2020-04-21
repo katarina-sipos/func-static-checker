@@ -4,10 +4,6 @@
       {
         "label": "Toggle func-static-checker",
         "command": "func-static-checker:toggle"
-      },
-      {
-        "label": "Tree",
-        "command": "func-static-checker:tree"
       }
     ]
   },
@@ -21,10 +17,6 @@
             {
               "label": "Toggle",
               "command": "func-static-checker:toggle"
-            },
-            {
-              "label": "Tree",
-              "command": "func-static-checker:tree"
             }
           ]
 

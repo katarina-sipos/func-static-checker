@@ -6,8 +6,7 @@
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
-      "func-static-checker:toggle",
-      "func-static-checker:tree"
+      "func-static-checker:toggle"
     ]
   },
   "repository": "https://github.com/katarina-sipos/func-static-checker",
