@@ -18,6 +18,6 @@
     "node-gyp": "^6.1.0",
     "tree-sitter": "^0.16.0",
     "tree-sitter-cli": "^0.16.5",
-    "tree-sitter-func": "^1.2.8"
+    "tree-sitter-func": "^1.2.9"
   }
 }
