@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "func-static-checker:toggle"
+    "ctrl-alt-f": "func-static-checker:toggle"
   }
 }
