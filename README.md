@@ -1,7 +1,6 @@
 # func-static-checker package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+A static code analysis tool for a functional language Func.
 # func-static-checker
+The package provides type-checking and supporting static code analysis of source code written in Func. Func is a simple functional programming language developed for purposes of a bachelor thesis of the author (https://github.com/katarina-sipos).
 # func-static-checker
