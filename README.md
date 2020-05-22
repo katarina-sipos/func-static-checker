@@ -12,16 +12,16 @@ The package provides type-checking and supporting static code analysis of source
 
 ## Requirements ##
 
-     *C compiler*
-     *python 2.7*
+     C compiler
+     python 2.7
 
-Copy-paste solutions to obtain the requirements listed above:
+###Copy-paste solutions to obtain the requirements listed above###
 
-* Windows
+#### Windows ####
 
 `npm install -g production windows-build-tools`
 
-* Linux
+#### Linux ####
 
 `sudo apt-get update`
 
