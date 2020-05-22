@@ -15,7 +15,7 @@ The package provides type-checking and supporting static code analysis of source
      C compiler
      python 2.7
 
-###Copy-paste solutions to obtain the requirements listed above###
+### Copy-paste solutions to obtain the requirements listed above ###
 
 #### Windows ####
 
