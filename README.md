@@ -12,8 +12,8 @@ The package provides type-checking and supporting static code analysis of source
 
 ## Requirements ##
 
-     _C compiler_
-     _python 2.7_
+     *C compiler*
+     *python 2.7*
 
 Copy-paste solutions to obtain the requirements listed above:
 
@@ -24,6 +24,8 @@ Copy-paste solutions to obtain the requirements listed above:
 * Linux
 
 `sudo apt-get update`
+
 `sudo apt-get install -f`
+
 `sudo apt install build-essential`
 
